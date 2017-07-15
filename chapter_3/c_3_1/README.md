@@ -51,7 +51,7 @@ angle = radians(deg);
 println(angle); // => 1.0471976
 ```
 
-### PI
+### `PI`
 上記のコードで記述した、Processingの組み込み変数`PI`は円周率（パイ:π)のこと。
 
 ## `rotate()`を利用した角運動（座標の回転）
@@ -97,5 +97,4 @@ void draw() {
 
 以下のアニメーションが出力される。
 
-<img src="../README_resources/chapter_3/c_3_1_rotate.gif" width="200">
-
+<img src="../../README_resources/chapter_3/c_3_1_rotate.gif" width="200">
